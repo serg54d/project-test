@@ -16,7 +16,8 @@ function App() {
 				{/* <StyledBtn primary>Кнопка</StyledBtn>
 				<StyledBtn outlined>Кнопка</StyledBtn> */}
 				<StyledBtn color={myTheme.colors.primary} btnType={'primary'}>Кнопка</StyledBtn>
-				<StyledBtn btnType={'outlined'}>Кнопка</StyledBtn>
+				<StyledBtn btnType={'outlined'}>Кнопка2313</StyledBtn>
+				<StyledBtn btnType={'primary'}>   Кнопка2313</StyledBtn>
 
 			</Lesson__Container>
 		</Lesson>

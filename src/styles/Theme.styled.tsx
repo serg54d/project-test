@@ -19,9 +19,9 @@ export const myTheme = {
 		mobile: '767.98px', // Телефоны L
 		mobileSmall: '479.98px',
 	},
-	// container: {
-	// 	containerWidth: '1140px',
-	// }
+	container: {
+		containerWidth: '1140px',
+	}
 
 
 }
